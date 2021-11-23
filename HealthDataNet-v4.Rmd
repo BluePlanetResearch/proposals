@@ -9,6 +9,8 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Work in progress, material towards end is from a previous unsubmitted proposal
+
 **HealthDataNet**
 
 Part 1 - Proposal Submission
@@ -63,13 +65,13 @@ Expected ROI:
 Anecdotal reports from a health data company CEO (the Health Unchained podcast, episode 7, Jul 2, 2018) suggest a single health PHR (personal health record) was being sold for ~ 1200 USD in data marketplaces. The legality of these transactions are questionable, but indicates the value of such data. 
 The largest neurophysiology companies can provide services in ~ 100,000 cases a year, and the combined case coverage for major companies based in the US Northeast is at least 200,000 cases. If a CMO / CIO decides to use Ocean technology, they will bring their entire database of several thousand patients to Ocean.
 Although the total case volume is large, the types of cases (e.g. neck, thorax, low back, brain aneurysms, tumors etc) being covered are many and the patient population is varied. Hence an individual company lacks the ability to collect sufficient data for machine learning. 
-Assuming a theoretical total size of 200,000 cases a year, the total market size is 280.8 million Ocean (assuming 1 Ocean = 0.85 USD) considering data assets alone. The hypothetical ROI based on this valuation, results in an ROI of  >90,000 (bang/buck) with a 100% chance of success, >40,000 with a 50% chance, >18000 with a 20% chance, >9000 with a 10% chance, > 900 with a 1% chance of success. 
-expected ROI > 900 with a 1% chance of success 
-These are ball park estimates based on anecdotal data, and the true price of individual PHRs after becoming part of a dataset used in machine learning remains to be discovered.
-(We thank the Coral Market team in round 10 for their estimated ROI calculation. We have based our ROI on their logic.)
-Funding Requested: USD 2200/-
-PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the given Round's Proposal Due By Deadline. This determines how many OCEAN will be awarded if a proposal is voted to receive a grant.
-Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected). TBD
+
+Funding Requested: TBD
+
+
+Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected). 
+0x81Ed2e21713a7Fb2d31Fc33690389321E33a2B9E
+
 Have you previously received an OceanDAO Grant: No
 Discord Handle (if applicable): @mnkyntigr
 Project lead Contact Email: nomesg2020+OceanDAO@gmail.com
