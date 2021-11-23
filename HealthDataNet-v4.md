@@ -9,21 +9,23 @@ Work in progress, funding and roadmap tbd
 
 Part 1 - Proposal Submission Name of Project: **HealthDataNet**
 
-Proposal in one sentence:
+### Proposal in one sentence:
 
 Allow a private dataset to be stored on Filecoin Plus, enclose it in an
 additional privacy ‘bubble’, publish it on the Ocean marketplace, and
 provide the output of a compute-to-data algorithm run on the dataset to
 an Ocean marketplace customer.
 
-Description of the project and what problem is it solving: Under US law
-(HIPAA, Hitech Act), healthcare companies involved in direct patient
-care are required to maintain data collected by them for every patient.
+### Description of the project and what problem is it solving:
 
-Problem to be solved: Storing certain kinds of medical data indefinitely
-/ for long periods of time is expensive, especially if it generates no
-returns for money spent on storage. Furthermore, this data is locked
-within individual company data silos. These isolated data silos lack
+#### Problem to be solved:
+
+Under US law (HIPAA, Hitech Act), healthcare companies involved in
+direct patient care are required to maintain data collected by them for
+every patient. Storing certain kinds of medical data indefinitely / for
+long periods of time is expensive, especially if it generates no returns
+for money spent on storage. Furthermore, this data is locked within
+individual company data silos. These isolated data silos lack
 statistical power, and the companies have no mechanism to cooperate on
 combining and analyzing this data for different insights.
 
@@ -34,16 +36,18 @@ has a dataset that is inadequate for machine learning algorithms to
 provide insights, yet are unable to share data between themselves since
 this might provide crucial business intelligence to their competitors.
 
-Solution: We propose a data storage, analytics and monetization
-**paradigm** for aggregated private healthcare data that focuses on
-patient privacy, data provenance and traceable, controlled
-compute-to-data. This paradigm will include an inexpensive,
-decentralized storage solution (e.g. Filecoin), absolute control of data
-in the hands of the data provider with fine-grained layers of privacy
-provided by Ocean Protocol and Datona Labs, ability to publish dataset
-with compute-to-data permissions on the Ocean Marketplace, running
-compute-to-data on the dataset and providing the output to another Ocean
-Marketplace customer authorized by the data provider.
+#### Solution:
+
+We propose a data storage, analytics and monetization **paradigm** for
+aggregated private healthcare data that focuses on patient privacy, data
+provenance and traceable, controlled compute-to-data. This paradigm will
+include an inexpensive, decentralized storage solution (e.g. Filecoin),
+absolute control of data in the hands of the data provider with
+fine-grained layers of privacy provided by Ocean Protocol and Datona
+Labs, ability to publish dataset with compute-to-data permissions on the
+Ocean Marketplace, running compute-to-data on the dataset and providing
+the output to another Ocean Marketplace customer authorized by the data
+provider.
 
 Our long-term goal is to become a nationally accredited (Joint
 Commission), specialized service providing healthcare companies with
@@ -52,8 +56,7 @@ Marketplace, while ensuring patient rights and privacy. Funds requested
 in this proposal will allow us to develop a *proof-of-concept* of such a
 service paradigm.
 
-Grant Deliverables: (Provide us with a check-boxed list of deliverables
-for the funding provided)
+### Grant Deliverables: (Provide us with a check-boxed list of deliverables for the funding provided)
 
 \[ \] upload example dataset to Filecoin Plus
 
@@ -73,10 +76,13 @@ the privacy bubble provided by Datona Labs Ltd. 
 \[ \] run compute-to-data on the dataset and provide output to the
 approved Ocean marketplace customer
 
-Which category best describes your project? Pick one. Other / core tech
-/ community
+### Which category best describes your project? Pick one.
 
-Which Fundamental Metric best describes your project? Pick one.
+Other / core tech / community
+
+### Which Fundamental Metric best describes your project?
+
+Pick one.
 
 Other - Our end goal is to unlock value in US healthcare data silos with
 Ocean Protocol based technology. As a first step, we wish to create a
@@ -93,40 +99,46 @@ will enable the Ocean community to develop similar solutions in other
 areas of healthcare as well as other regulated and privacy sensitive
 industries (e.g. legal).
 
-What is the final product?: A proof-of-concept of a storage and
-monetization paradigm using compute-to-data on privately stored
-aggregate healthcare datasets.
+### What is the final product?:
 
-How does this project drive value to the “fundamental metric” (listed
-above) and the overall Ocean ecosystem? This is best expressed as
-Expected ROI
+A proof-of-concept of a storage and monetization paradigm using
+compute-to-data on privately stored aggregate healthcare datasets.
 
-Expected ROI: Anecdotal reports from a health data company CEO (the
-Health Unchained podcast, episode 7, Jul 2, 2018) suggest a single
-health PHR (personal health record) was being sold for \~ 1200 USD in
-data marketplaces. The legality of these transactions are unclear, but
-indicates the value of such data. The largest neurophysiology companies
-can provide services in \~ 100,000 cases a year, and the combined case
-coverage for major companies based in the US Northeast is at least
-200,000 cases. If a CMO / CIO decides to use Ocean technology, they will
-bring their entire database of several thousand patients to Ocean.
-Although the total case volume is large, the types of cases (e.g. neck,
-thorax, low back, brain aneurysms, tumors etc) being covered are many
-and the patient population is varied. Hence an individual company lacks
-the ability to collect sufficient data for machine learning.
+### How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem?
 
-Funding Requested: TBD
+This is best expressed as Expected ROI
 
-Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be
-eligible. This wallet is where you will receive the grant amount if
-selected). 0x4fDCCF789B8631110A942AD1A8663cE054846e21
+#### Expected ROI:
 
-Have you previously received an OceanDAO Grant: No
+Anecdotal reports from a health data company CEO (the Health Unchained
+podcast, episode 7, Jul 2, 2018) suggest a single health PHR (personal
+health record) was being sold for \~ 1200 USD in data marketplaces. The
+legality of these transactions are unclear, but indicates the value of
+such data. The largest neurophysiology companies can provide services in
+\~ 100,000 cases a year, and the combined case coverage for major
+companies based in the US Northeast is at least 200,000 cases. If a CMO
+/ CIO decides to use Ocean technology, they will bring their entire
+database of several thousand patients to Ocean. Although the total case
+volume is large, the types of cases (e.g. neck, thorax, low back, brain
+aneurysms, tumors etc) being covered are many and the patient population
+is varied. Hence an individual company lacks the ability to collect
+sufficient data for machine learning.
+
+### Funding Requested: TBD
+
+### Proposal Wallet Address:
+
+(must have minimum 500 OCEAN in wallet to be eligible. This wallet is
+where you will receive the grant amount if selected).
+
+0x4fDCCF789B8631110A942AD1A8663cE054846e21
+
+### Have you previously received an OceanDAO Grant: No
 
 -Discord Handle (if applicable): @mnkyntigr -Project lead Contact Email:
 <nomesg2020+OceanDAO@gmail.com> -Country of Residence: United States
 
-Part 2 - Team
+### Part 2 - Team
 
 Core Team
 
@@ -149,9 +161,9 @@ Credentials: Senior software Engineer LinkedIn:
 
 Background/Experience:
 
-Advisers TBD
+### Advisers TBD
 
-Part 3 - Proposal Details
+### Proposal Details
 
 Allied health care providers range from anesthesiology service provider
 companies all the way to environmental services provider companies in
@@ -204,21 +216,24 @@ will be based on the strengths of the Ocean Protocol and Datona Labs
 tech stack, including immutability, access tracking and compute-to-data
 capabilities that preserve patient privacy.
 
-Project Deliverables - Roadmap
+### Project Deliverables - Roadmap
 
-Any prior work completed thus far? The principal researcher has
-published two test datasets (vital_signs_1 & 2) on the Ocean Marketplace
-using the Rinkeby network. He is currently working on learning to
-develop and publish an appropriate compute-to-data ML algorithm. To
-achieve this, he is contributing to the Algovera AI hacking sessions
-actively.
+#### Any prior work completed thus far?
 
-What is the project roadmap? That is: what are key milestones, and the
-target date for each milestone.
+The principal researcher has published two test datasets (vital_signs_1
+& 2) on the Ocean Marketplace using the Rinkeby network. He is currently
+working on learning to develop and publish an appropriate
+compute-to-data ML algorithm. To achieve this, he is contributing to the
+Algovera AI hacking sessions actively.
 
-Final report with analysis of the findings : February 2022
+#### What is the project roadmap?
 
-Please include the team’s future plans and intentions.
+That is: what are key milestones, and the target date for each
+milestone.
+
+#### Final report with analysis of the findings : February 2022
+
+### Please include the team’s future plans and intentions.
 
 We believe a successful implementation of data solutions in the
 neurophysiology field will kindle interest amongst other types of health
