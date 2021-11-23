@@ -3,8 +3,7 @@ HealthDataNet-v4
 ASG
 11/22/2021
 
-Work in progress, material towards end is from a previous unsubmitted
-proposal
+Work in progress, funding and roadmap tbd
 
 **HealthDataNet**
 
@@ -227,6 +226,6 @@ provider companies (e.g. anesthesia providers that typically work
 closely with surgical neurophysiologists in the operating room) and
 stimulate their adoption of Ocean technology.
 
-Our end goal is to become an Ocean Protocol based b2b service provider
+Our mission is to become an Ocean Protocol based b2b service provider
 for healthcare data assets and analytic solutions while ensuring patient
 rights and privacy.
