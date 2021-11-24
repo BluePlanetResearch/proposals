@@ -85,11 +85,9 @@ approved Ocean marketplace customer
 
 ### Which category best describes your project? Pick one.
 
-Other / core tech / community
+Build / improve applications or integrations to Ocean
 
 ### Which Fundamental Metric best describes your project?
-
-Pick one.
 
 Other - Our end goal is to unlock value in US healthcare data silos with
 Ocean Protocol based technology. As a first step, we wish to create a
@@ -134,7 +132,7 @@ sufficient data for machine learning. We expect the Ocean, as well as,
 the larger AI/ML community will develop several novel uses for this
 expanding healthcare dataset.
 
-### Funding Requested: TBD
+### Funding Requested: tbd
 
 ### Proposal Wallet Address:
 
@@ -152,27 +150,37 @@ where you will receive the grant amount if selected).
 
 Core Team
 
-Ambarish S. Ghatpande, PhD, CNIM Role: project lead / researcher
-Relevant Credentials: LinkedIn:
-<https://linkedin.com/in/ambarishghatpande> Github:
+Ambarish S. Ghatpande, PhD, CNIM -Role: project lead / researcher
+-Relevant Credentials: -LinkedIn:
+<https://linkedin.com/in/ambarishghatpande> -Github:
 <https://github.com/aghatpande>
 
-Experience and Background: Statistical analysis and machine learning
-using R/RStudio 2013 - present Surgical neurophysiologist III with
-SpecialtyCare 2016 - 2021 Surgical Neurophysiologist Sentient Medical
-Systems 2015 - 2016 Research Associate University of Maryland 2011 -
-2012 Senior Research Scientist Lupin Ltd 2011 Research Associate at
-Monell Chemical Senses Center 2005-2011 Postdoctoral fellow at the
-University of Colorado 2000 - 2005 PhD dissertation in ion channel
+Experience and Background: -Statistical analysis and machine learning
+using R/RStudio 2013 - present -Surgical neurophysiologist III with
+SpecialtyCare 2016 - 2021 -Surgical Neurophysiologist Sentient Medical
+Systems 2015 - 2016 -Research Associate University of Maryland 2011 -
+2012 -Senior Research Scientist Lupin Ltd 2011 -Research Associate at
+Monell Chemical Senses Center 2005-2011 -Postdoctoral fellow at the
+University of Colorado 2000 - 2005 -PhD, dissertation in ion channel
 biophysics 1993 - 2000
 
-Datona Labs Ltd / Principal: David N. Potter Role: privacy solutions
-consultant Relevant Credentials: Senior software Engineer LinkedIn:
+Datona Labs Ltd / Principal: David N. Potter -Role: privacy solutions
+consultant -LinkedIn:
 <https://www.linkedin.com/in/david-potter-2443332/>
 
-Background/Experience: TBD
+Background/Experience: -Founder & CTO Datona Labs 2019 - present
+-Independent software assessor for rail accident investigation team Hong
+Kong government 2018 - present -Technical authority Hitachi 2016 - 2020
+-Founder & CTO OpenSig 2016 - present -Independent safety assessor
+Kawasaki 2015 - 2019 -Software safety assurance Ebeni 2012 - present
+-Independent safety assessor Lloyd’s Register Beijing - 2011 -Technical
+authority Invensys Rail 2003 - 2011 -Technical consultant EADS 2003
+-Technical consultant Silver Atena 2000 - 2002 -Software consultant
+Ultra Electronics 1999 -Software engineer Westinghouse Rail 1997 - 1999
+-Software engineer Ultra Electronics 1996 - 1997 -BSc computer science
+University of York - 1996
 
-We are also scouting for academia-based neurophysiologists and senior
+We are also scouting for academic neurophysiologists and senior
 executives in neurophysiology / healthcare / AI companies to be members
 of the core team.
 
@@ -199,7 +207,7 @@ coverage is growing every year.
 During surgery, the surgical neurophysiologist present in the operating
 room records neurophysiological data from the patient and runs tests at
 the request of the surgeon. This allows the surgeon to operate avoiding
-injury to neural tissue. For example, during brain tumor surgeries, a
+injury to neural tissue. For example, during brain tumor excision, a
 surgeon needs the neurophysiologist to guide him by identifying brain
 areas involved in movement, sensation, vital bodily functions (breathing
 etc). Large amounts of neurophysiological data are collected and needs
@@ -236,11 +244,11 @@ privacy.
 
 #### Any prior work completed thus far?
 
-The project lead has published two test datasets (vital_signs_1 & 2) on
-the Ocean Marketplace using the Rinkeby network. He is currently working
-on learning to develop and publish an appropriate compute-to-data ML
-algorithm. To achieve this, he is contributing to the Algovera AI
-hacking sessions actively.
+The project lead has published two test datasets (vital\_signs\_1 & 2)
+on the Ocean Marketplace using the Rinkeby network. He is currently
+working on learning to develop and publish an appropriate
+compute-to-data ML algorithm. To achieve this, he is contributing to the
+Algovera AI hacking sessions actively.
 
 #### What is the project roadmap? tbd
 

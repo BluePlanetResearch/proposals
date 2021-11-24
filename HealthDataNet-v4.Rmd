@@ -49,10 +49,9 @@ Our long-term goal is to become a nationally accredited, specialized service pro
 
 ### Which category best describes your project? Pick one.
 
-Other / core tech / community 
+Build / improve applications or integrations to Ocean 
 
 ### Which Fundamental Metric best describes your project? 
-Pick one.
 
 Other - Our end goal is to unlock value in US healthcare data silos with Ocean Protocol based technology. As a first step, we wish to create a proof-of-concept of a paradigm to store, analyze and monetize these datasets for their aggregators and **ultimately provide control to each patient over their own data** going forward.
 
@@ -73,7 +72,7 @@ The largest neurophysiology companies provide services in ~ 100,000 cases a year
 Although the total case volume is large, the types of cases (e.g. neck, thorax, low back, brain aneurysms, tumors etc) being covered are many and the patient population is varied. Hence an individual company lacks the ability to collect sufficient data for machine learning.
 We expect the Ocean, as well as, the larger AI/ML community will develop several novel uses for this expanding healthcare dataset.
 
-### Funding Requested: TBD
+### Funding Requested: tbd
 
 ### Proposal Wallet Address:
 (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected). 
@@ -91,29 +90,42 @@ We expect the Ocean, as well as, the larger AI/ML community will develop several
 Core Team
 
 Ambarish S. Ghatpande, PhD, CNIM
-  Role: project lead / researcher
-  Relevant Credentials:
-  LinkedIn: https://linkedin.com/in/ambarishghatpande
-  Github: https://github.com/aghatpande
+-Role: project lead / researcher
+-Relevant Credentials:
+-LinkedIn: https://linkedin.com/in/ambarishghatpande
+-Github: https://github.com/aghatpande
 
 Experience and Background:
-  Statistical analysis and machine learning using R/RStudio 2013 - present 
-  Surgical neurophysiologist III with SpecialtyCare 2016 - 2021
-  Surgical Neurophysiologist Sentient Medical Systems 2015 - 2016
-  Research Associate University of Maryland 2011 - 2012
-  Senior Research Scientist Lupin Ltd 2011
-  Research Associate at Monell Chemical Senses Center 2005-2011
-  Postdoctoral fellow at the University of Colorado 2000 - 2005
-  PhD dissertation in ion channel biophysics 1993 - 2000
+-Statistical analysis and machine learning using R/RStudio 2013 - present
+-Surgical neurophysiologist III with SpecialtyCare 2016 - 2021
+-Surgical Neurophysiologist Sentient Medical Systems 2015 - 2016
+-Research Associate University of Maryland 2011 - 2012
+-Senior Research Scientist Lupin Ltd 2011
+-Research Associate at Monell Chemical Senses Center 2005-2011
+-Postdoctoral fellow at the University of Colorado 2000 - 2005
+-PhD, dissertation in ion channel biophysics 1993 - 2000
 
 Datona Labs Ltd / Principal: David N. Potter
-Role: privacy solutions consultant
-Relevant Credentials: Senior software Engineer
-LinkedIn: https://www.linkedin.com/in/david-potter-2443332/
+-Role: privacy solutions consultant
+-LinkedIn: https://www.linkedin.com/in/david-potter-2443332/
 
-Background/Experience: TBD
+Background/Experience: 
+-Founder & CTO Datona Labs 2019 - present
+-Independent software assessor for rail accident investigation team Hong Kong government 2018 - present
+-Technical authority Hitachi 2016 - 2020
+-Founder & CTO OpenSig 2016 - present
+-Independent safety assessor Kawasaki 2015 - 2019
+-Software safety assurance Ebeni 2012 - present
+-Independent safety assessor Lloyd’s Register Beijing - 2011
+-Technical authority Invensys Rail 2003 - 2011
+-Technical consultant EADS 2003
+-Technical consultant Silver Atena 2000 - 2002
+-Software consultant Ultra Electronics 1999
+-Software engineer Westinghouse Rail 1997 - 1999
+-Software engineer Ultra Electronics 1996 - 1997
+-BSc computer science University of York - 1996
 
-We are also scouting for academia-based neurophysiologists and senior executives in neurophysiology / healthcare / AI companies to be members of the core team.
+We are also scouting for academic neurophysiologists and senior executives in neurophysiology / healthcare / AI companies to be members of the core team.
 
 ### Advisers TBD
 
@@ -124,7 +136,7 @@ Allied health care providers range from anesthesiology service provider companie
 
 Surgical neurophysiology companies are an example of allied health provider companies. Large neurophysiology companies are unique in having nationwide coverage. Surgical neurophysiology companies provide their services for surgeries involving the brain, spinal cord, peripheral nerves and many types of vascular (involving heart, major blood vessels including those in the brain) surgeries. There are approximately 750,000 such surgeries performed annually in the United States and this case coverage is growing every year. 
 
-During surgery, the surgical neurophysiologist present in the operating room records neurophysiological data from the patient and runs tests at the request of the surgeon. This allows the surgeon to operate avoiding injury to neural tissue. For example, during brain tumor surgeries, a surgeon needs the neurophysiologist to guide him by identifying brain areas involved in movement, sensation, vital bodily functions (breathing etc). Large amounts of neurophysiological data are collected and needs to be stored as PHI by the company that employs the neurophysiologist.
+During surgery, the surgical neurophysiologist present in the operating room records neurophysiological data from the patient and runs tests at the request of the surgeon. This allows the surgeon to operate avoiding injury to neural tissue. For example, during brain tumor excision, a surgeon needs the neurophysiologist to guide him by identifying brain areas involved in movement, sensation, vital bodily functions (breathing etc). Large amounts of neurophysiological data are collected and needs to be stored as PHI by the company that employs the neurophysiologist.
 
 The outcome of these types of surgeries are dependent on several features of the patient’s medical history as well as the intra-operative course of the surgery. Potentially, this data when subject to machine learning, will unlock new insights into surgical outcomes. Unfortunately, machine learning models are data hungry, and no individual company can generate sufficient data on the many different types of surgeries performed. They need to collaborate amongst each other but are wary of this due to competition. We hope to provide a collaborative mechanism while simultaneously providing a new revenue stream for each company in the marketplace. In addition, machine learning developers and other entities (e.g. insurance companies) will also benefit from compute-to-data access to real patient data.
 
