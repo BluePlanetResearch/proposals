@@ -3,7 +3,7 @@ HealthDataNet-v4
 ASG
 11/22/2021
 
-Work in progress, funding and roadmap tbd, **for your eyes only**
+Work in progress, funding and roadmap tbd
 
 **HealthDataNet**
 
