@@ -1,31 +1,29 @@
-HealthDataNet-v4
+Healthcare_data_guild
 ================
 ASG
 11/22/2021
 
-Work in progress, funding and roadmap tbd
+### Name of Project
 
-**HealthDataNet**
+**Healthcare_data_guild**
 
-Part 1 - Proposal Submission Name of Project: **HealthDataNet**
+### Proposal in one sentence
 
-### Proposal in one sentence:
+Allow a private dataset, resembling **aggregated** healthcare data, to
+be stored on Filecoin Plus, enclose it in a **privacy ‘bubble’**,
+publish metadata on the Ocean marketplace, and provide the output of a
+relevant compute-to-data algorithm run on this dataset to an
+**authorized Ocean marketplace customer**.
 
-Allow a private dataset, resembling aggregated healthcare data, to be
-stored on Filecoin Plus, enclose it in an additional privacy ‘bubble’,
-publish its metadata on the Ocean marketplace, and provide the output of
-a relevant compute-to-data algorithm run on this dataset to an
-authorized Ocean marketplace customer.
+### Description of the project and what problem is it solving
 
-### Description of the project and what problem is it solving:
-
-#### Problem to be solved:
+#### Problem to be solved
 
 Under US law (HIPAA, Hitech Act), healthcare companies involved in
-direct patient care are required to maintain data collected by them for
-every patient. Storing certain kinds of medical data indefinitely / for
-long periods of time is expensive, especially if it generates no returns
-for money spent on storage. Furthermore, this data is locked within
+direct patient care are required to maintain data for every patient of
+theirs. Storing certain kinds of medical data indefinitely / for long
+periods of time is expensive, especially if it generates no returns for
+money spent on storage. Furthermore, this data is locked within
 individual company data silos. These isolated data silos lack
 statistical power, and the companies have no mechanism to cooperate on
 combining and analyzing this data for different insights.
@@ -38,7 +36,7 @@ but several such company datasets together, can provide insights. Yet
 these companies are unable to share data between themselves since this
 might provide crucial business intelligence to their competitors.
 
-#### Solution:
+#### Solution
 
 We propose a data storage, analytics and monetization **paradigm** for
 aggregated private healthcare data that focuses on patient privacy, data
@@ -48,13 +46,13 @@ paradigm should include an inexpensive, decentralized storage solution
 data providing company with fine-grained layers of privacy provided by
 Ocean Protocol and Datona Labs. Furthermore, the providers should be
 able to publish their dataset attributes / metadata with compute-to-data
-permissions on the Ocean Marketplace. A HealthDataNet / data provider
-authorized customer will be allowed to run compute-to-data ML algorithms
-on these datasets and to access the predictive models / insights
-outputted by the algorithm. A similar federated learning solution called
-[Melloddy](https://www.melloddy.eu/), but based on centralized data
-storage at AWS, is currently being piloted for large pharmaceutical
-companies.
+permissions on the Ocean Marketplace. A healthcare data guild- /
+individual data provider- authorized customer will be allowed to run
+compute-to-data ML algorithms on these datasets and to access the
+predictive models / insights outputted by the algorithm. A similar
+federated learning solution called [Melloddy](https://www.melloddy.eu/),
+but based on centralized data storage at AWS, is currently being piloted
+for large pharmaceutical companies.
 
 Our long-term goal is to become a nationally accredited, specialized
 service providing healthcare companies with storage, analytics and
@@ -62,7 +60,7 @@ monetization of their data on the Ocean Marketplace, while ensuring
 patient rights and privacy. Funds requested in this proposal will allow
 us to develop a *proof-of-concept* of such a service paradigm.
 
-### Grant Deliverables: (Provide us with a check-boxed list of deliverables for the funding provided)
+### Grant Deliverables
 
 \[ \] upload example dataset to Filecoin Plus
 
@@ -76,9 +74,9 @@ Marketplace
 \[ \] publish a relevant compute-to-data algorithm to the Ocean
 marketplace
 
-\[ \] enable approval, by HealthDataNet or the dataset provider, of a
-third party customer through the privacy bubble provided by Datona Labs
-Ltd. 
+\[ \] enable approval, by healthcare_dataguild or the dataset provider,
+of a third party customer / algorithm provider through the privacy
+bubble.
 
 \[ \] run compute-to-data on the dataset and provide output to the
 approved Ocean marketplace customer
@@ -98,22 +96,21 @@ patient over their own data** going forward.
 Core tech: We will demonstrate how the Ocean Marketplace can be
 integrated with decentralized data storage services like Filecoin.
 
-Community: By establishing this paradigm for private, regulated,
-healthcare data storage and monetization via the Ocean Marketplace, we
-will enable the Ocean community to develop similar solutions in other
-areas of healthcare as well as other regulated and privacy sensitive
-industries (e.g. legal).
+Community: By establishing this paradigm of a dataguild of stakeholders
+for private, regulated, healthcare data storage and monetization via the
+Ocean Marketplace, we will enable the Ocean community to develop similar
+solutions in other areas of healthcare as well as other regulated and
+privacy sensitive industries (e.g. legal).
 
-### What is the final product?:
+### What is the final product?
 
 A proof-of-concept of a storage and monetization paradigm using
-compute-to-data on privately stored aggregate healthcare datasets.
+compute-to-data on private aggregate datasets within a specialized
+dataguild of healthcare data providers, analysts and consumers.
 
 ### How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem?
 
-This is best expressed as Expected ROI
-
-#### Expected ROI:
+#### Value added / Expected ROI
 
 Anecdotal reports from a health data company CEO (the Health Unchained
 podcast, episode 7, Jul 2, 2018) suggest a single health PHR (personal
@@ -121,23 +118,22 @@ health record) was being sold for \~ 1200 USD in data marketplaces. The
 legality of these transactions are unclear, but indicates the value of
 such data. The largest neurophysiology companies provide services in \~
 100,000 cases a year, and the combined case coverage for companies based
-in the US is \~ 750,000 [cases](https://ionm.uconn.edu/). If a company
-decides to use our paradigm, they will bring their entire database of
-several thousand patients to Ocean. Furthermore, the datasets will have
-an annual growth of several thousand cases. Although the total case
-volume is large, the types of cases (e.g. neck, thorax, low back, brain
-aneurysms, tumors etc) being covered are many and the patient population
-is varied. Hence an individual company lacks the ability to collect
-sufficient data for machine learning. We expect the Ocean, as well as,
-the larger AI/ML community will develop several novel uses for this
-expanding healthcare dataset.
+in the US is \~ 750,000 [cases](https://ionm.uconn.edu/). Although the
+total case volume is large, the types of cases (e.g. neck, thorax, low
+back, brain aneurysms, tumors etc) being covered are many and the
+patient population is varied. Hence an individual company lacks the
+ability to collect sufficient data for machine learning. We expect the
+Ocean, as well as, the larger AI/ML community will develop several novel
+uses for this expanding healthcare dataset. If a successful dataguild of
+stakeholders can be formed, a sub-ecosystem of data providers, analysts
+and consumers will be created on the Ocean Marketplace contributing to
+the success of the marketplace.
 
-### Funding Requested: tbd
+### Funding Requested
 
-### Proposal Wallet Address:
+3000 USD
 
-(must have minimum 500 OCEAN in wallet to be eligible. This wallet is
-where you will receive the grant amount if selected).
+### Proposal Wallet Address
 
 0x4fDCCF789B8631110A942AD1A8663cE054846e21
 
@@ -155,36 +151,47 @@ Ambarish S. Ghatpande, PhD, CNIM -Role: project lead / researcher
 <https://linkedin.com/in/ambarishghatpande> -Github:
 <https://github.com/aghatpande>
 
-Experience and Background: -Statistical analysis and machine learning
+Experience and Background -Statistical analysis and machine learning
 using R/RStudio 2013 - present -Surgical neurophysiologist III with
-SpecialtyCare 2016 - 2021 -Surgical Neurophysiologist Sentient Medical
-Systems 2015 - 2016 -Research Associate University of Maryland 2011 -
-2012 -Senior Research Scientist Lupin Ltd 2011 -Research Associate at
-Monell Chemical Senses Center 2005-2011 -Postdoctoral fellow at the
-University of Colorado 2000 - 2005 -PhD, dissertation in ion channel
+SpecialtyCare 2016 - 2021 -Surgical neurophysiologist Sentient Medical
+Systems 2015 - 2016 -Senior Research Scientist Lupin Ltd 2014 -Research
+positions at University of Colorado, Monell Chemical Senses Center and
+University of Maryland (2000-2013) -PhD, dissertation in ion channel
 biophysics 1993 - 2000
 
 Datona Labs Ltd / Principal: David N. Potter -Role: privacy solutions
 consultant -LinkedIn:
 <https://www.linkedin.com/in/david-potter-2443332/>
 
-Background/Experience: -Founder & CTO Datona Labs 2019 - present
--Independent software assessor for rail accident investigation team Hong
-Kong government 2018 - present -Technical authority Hitachi 2016 - 2020
--Founder & CTO OpenSig 2016 - present -Independent safety assessor
-Kawasaki 2015 - 2019 -Software safety assurance Ebeni 2012 - present
--Independent safety assessor Lloyd’s Register Beijing - 2011 -Technical
-authority Invensys Rail 2003 - 2011 -Technical consultant EADS 2003
--Technical consultant Silver Atena 2000 - 2002 -Software consultant
-Ultra Electronics 1999 -Software engineer Westinghouse Rail 1997 - 1999
--Software engineer Ultra Electronics 1996 - 1997 -BSc computer science
-University of York - 1996
+Background/Experience
 
-We are also scouting for academic neurophysiologists and senior
-executives in neurophysiology / healthcare / AI companies to be members
-of the core team.
+A senior software engineer with a history of developing and assuring
+safety critical software in the rail and aviation industries. I’ve been
+developing blockchain solutions since 2013 and am currently building a
+decentralised privacy platform with associated DApps using linux,
+javascript, solidity, web3.js, figma, react and styled components and
+expertise in applied cryptography.
 
-### Advisers TBD
+-Founder & CTO Datona Labs 2019 - present -Independent software assessor
+for rail accident investigation team Hong Kong government 2018 - present
+-Technical authority Hitachi 2016 - 2020 -Founder & CTO OpenSig 2016 -
+present -Independent safety assessor Kawasaki 2015 - 2019 -Software
+safety assurance Ebeni 2012 - present -Independent safety assessor
+Lloyd’s Register Beijing - 2011 -Technical authority Invensys Rail
+2003 - 2011 -Technical consultant EADS 2003 -Technical consultant Silver
+Atena 2000 - 2002 -Software consultant Ultra Electronics 1999 -Software
+engineer Westinghouse Rail 1997 - 1999 -Software engineer Ultra
+Electronics 1996 - 1997 -BSc computer science University of York - 1996
+
+We are scouting for academic neurophysiologists and senior executives in
+neurophysiology / healthcare / AI companies to be members of the core
+team.
+
+### Advisers
+
+Ongoing informal discussions with several current Ocean Protocol
+grantees active in the healthcare space. Consulting with the Project
+guiding WG
 
 ### Proposal Details
 
@@ -220,10 +227,16 @@ learning, will unlock new insights into surgical outcomes.
 Unfortunately, machine learning models are data hungry, and no
 individual company can generate sufficient data on the many different
 types of surgeries performed. They need to collaborate amongst each
-other but are wary of this due to competition. We hope to provide a
-collaborative mechanism while simultaneously providing a new revenue
-stream for each company in the marketplace. In addition, machine
-learning developers and other entities (e.g. insurance companies) will
+other but are wary of this due to competition.
+
+We hope to provide a private collaborative mechanism for various types
+of stakeholders within this vertical. Aligning the incentives and
+providing assured privacy and security for patients, data aggregators,
+service providers and consumers using Ocean Protocol and Datona Labs
+technology will be the primary goal. Data aggregators / providers
+(neurophysiology companies) will avail of lowered storage costs as well
+as a new revenue stream. In addition, machine learning developers and
+data consumers (e.g. other neurophysiology companies, payors etc) will
 also benefit from compute-to-data access to real patient data.
 
 Using their experience and connections in the surgical neurophysiology
@@ -244,18 +257,37 @@ privacy.
 
 #### Any prior work completed thus far?
 
-The project lead has published two test datasets (vital\_signs\_1 & 2)
-on the Ocean Marketplace using the Rinkeby network. He is currently
-working on learning to develop and publish an appropriate
-compute-to-data ML algorithm. To achieve this, he is contributing to the
-Algovera AI hacking sessions actively.
+The project lead has published two test datasets (vital_signs_1 & 2) on
+the Ocean Marketplace using the Rinkeby network. He is currently working
+on learning to develop and publish an appropriate compute-to-data ML
+algorithm. To achieve this, he is contributing to the Algovera AI
+hacking sessions actively.
 
-#### What is the project roadmap? tbd
+#### What is the project roadmap?
 
-That is: what are key milestones, and the target date for each
-milestone.
+The milestones will be worked on concurrently and delivery dates are an
+approximate projection
 
-#### Final delivery of proof-of-concept paradigm : May 2022
+Filecoin Plus storage and retrieval - End of January 2022
+
+Publishing a private dataset resembling healthcare data and a relevant
+compute-to-data algorithm on Ocean Marketplace - Feb 2022
+
+Custom ‘bubble’ to allow multiple variations of access and permissions
+for all types of stakeholders - Feb 2022
+
+Authorized customer purchases access to the dataset with permission to
+run the approved algorithm, runs the algorithm and takes delivery of the
+output - March 2022
+
+Money utilization: - consultancy fees to Datona Labs Ltd for privacy
+bubble development - Filecoin Plus storage and retrieval charges -
+compute services charges - addtiional development charges, if any
+-contingency
+
+#### Final delivery of proof-of-concept paradigm
+
+end of March 2022
 
 ### Please include the team’s future plans and intentions.
 
