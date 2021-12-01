@@ -282,15 +282,15 @@ paradigm described above.
 
 The project lead has **published two test datasets (vital\_signs\_1 &
 2)** which can be used for predictive models using supervised learning.
-The supervised learning algorithm is also working using R code and is
-able to predict a patient’s insurance status. We will publish this as an
-appropriate compute-to-data ML algorithm as part of our deliverables.
+The **supervised learning algorithm is also working** using R code and
+is able to predict a patient’s insurance status. We will publish this as
+an appropriate compute-to-data ML algorithm as part of our deliverables.
 Running these ‘useful in real-life’ predictive models do not require
 specialized compute infrastructure (e.g. GPUs) and are appropriate as a
 proof-of-concept. The project lead is also contributing to the Algovera
 AI hacking sessions actively to understand the intricacies of
-compute-to-data. Basic code for privacy bubbles is mature and will be
-appropriately customised.
+compute-to-data. **Basic code for privacy bubbles is mature** and will
+be appropriately customised.
 
 #### What is the project roadmap?
 
@@ -323,7 +323,7 @@ end of March 2022
 
 ### Please include the team’s future plans and intentions.
 
-We hope to successful implement this paradigm in the neurophysiology
+We hope to successfully implement this paradigm in the neurophysiology
 field as our major goal by end of 2022. This should kindle interest
 amongst other types of health provider companies (e.g. anesthesia
 providers that typically work closely with surgical neurophysiologists
